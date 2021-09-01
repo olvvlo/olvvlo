@@ -3,7 +3,7 @@
 - 🍒 Developer at Midea
 - 🍉 Focus on [navshare](https://www.navshare.cn) currently
 - 🍋 Vlog [Art.XD](https://www.artxd.cn)
-- 🍎 HangZhou
+- 🍎 Hangzhou
 - 👨‍🎓 HENU
 
 *↓↓↓↓↓↓*
