@@ -1,3 +1,13 @@
+### Hi there 👋
+
+- 🍒 Developer at Midea
+- 🍉 Focus on [navshare](https://www.navshare.cn) currently
+- 🍋 Vlog [Art.XD](https://www.artxd.cn)
+- 🍎 HangZhou
+- 👨‍🎓 HENU
+
+*↓↓↓↓↓↓*
+
 <div>
   <a href="/" align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xartd&text_color=586069&layout=compact&hide_border=true&bg_color=fff&title_color=0366d6&count_private=true&include_all_commits=true&hide_title=true" />
